@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=swidvey&count_private=true&theme=radical&show_icons=true" />
 
 <br>
@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 
 ### Frequently Used Languages and Tools 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/sql/sql.png"></code>
 
 
 <br>
