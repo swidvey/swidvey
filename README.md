@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I'm Seneca
 
+<br>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=swidvey.swidvey)
+[![GitHub followers](https://img.shields.io/github/followers/swidvey.svg?style=social&label=Follow)](https://github.com/swidvey?tab=follower
 <!--
 **swidvey/swidvey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,10 +19,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br>
 
-<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=swidvey&count_private=true&theme=radical&show_icons=true" />
-</div>
+
 
 <br>
 <br>
