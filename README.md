@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Seneca
 ---
 
-<img src="https://raw.githubusercontent.com/swidvey/swidvey/profile_banner.png">
+<img src="https://raw.githubusercontent.com/swidvey/swidvey/master/profile_banner.png">
 
 ---
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=swidvey.swidvey)
