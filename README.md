@@ -15,13 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=swidvey)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=swidvey&count_private=true&theme=radical&show_icons=true" />
 
+<br>
+<br>
+
+### Frequently Used Languages and Tools 
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/SQL/SQL.png"></code>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swidvey)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=swidvey &layout=compact />
-
+<br>
