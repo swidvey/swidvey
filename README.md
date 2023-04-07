@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 
 
 <br>
-<br>
+
+---
 
 ### Frequently Used Languages and Tools 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
