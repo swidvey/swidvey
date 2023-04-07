@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=swidvey&count_private=true&theme=radical&show_icons=true" />
+</div>
 
 <br>
 <br>
