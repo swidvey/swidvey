@@ -11,11 +11,10 @@ Should add description after image
 
 <br>
 
-| <img src="https://github-readme-stats.vercel.app/api?username=swidvey&count_private=true&theme=radical&show_icons=true" /> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swidvey&layout=compact&theme=radical)] |
+| <img src="https://github-readme-stats.vercel.app/api?username=swidvey&count_private=true&theme=radical&show_icons=true" /> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swidvey&layout=compact&theme=radical)(https://github.com/swidvey/github-readme-stats)] |
 | ------------- | ------------- |
 
 <br>
-
 ---
 
 ### Frequently Used Languages and Tools 
