@@ -35,8 +35,8 @@ Should add description after image
 ### Social Media:
 [<img align="left" alt="senecawidvey.co" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="medium" width="40px" src="https://raw.githubusercontent.com/swidvey/swidvey/master/medium_logo_icon.png" />][medium]
+[<img align="left" alt="Twitter" width="50px" src="https://raw.githubusercontent.com/swidvey/swidvey/master/twitter_icon.png" />][twitter]
+[<img align="left" alt="medium" width="50px" src="https://raw.githubusercontent.com/swidvey/swidvey/master/medium_logo_icon.png" />][medium]
 
 <br />
 <br />
