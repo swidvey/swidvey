@@ -35,15 +35,16 @@ Should add description after image
 <br />
 
 ### Social Media:
-[<img align="left" alt="senecawidvey.co" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="twitter" | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="linkedin" | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="senecawidvey.co" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br>
 
 [website]: https://www.senecawidvey.com
 [twitter]: https://twitter.com/arnabdey0503
 [linkedin]: https://www.linkedin.com/in/seneca-widvey-17209713/
+[medium]: https://medium.com/@senecawidvey/about
 
 
 <br />
