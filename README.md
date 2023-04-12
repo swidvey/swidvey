@@ -33,10 +33,11 @@ Should add description after image
 <br />
 
 ### Social Media:
-[<img align="left" alt="senecawidvey.co" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="senecawidvey.co" width="40px" src="https://raw.githubusercontent.com/swidvey/swidvey/master/website_icon.png" />][website]
+[<img align="left" alt="LinkedIn" width="40px" src="https://raw.githubusercontent.com/swidvey/swidvey/master/linkedin_icon.png" />][linkedin]
 [<img align="left" alt="Twitter" width="50px" src="https://raw.githubusercontent.com/swidvey/swidvey/master/twitter_icon.png" />][twitter]
 [<img align="left" alt="medium" width="50px" src="https://raw.githubusercontent.com/swidvey/swidvey/master/medium_logo_icon.png" />][medium]
+[<img align="left" alt="leet" width="50px" src="https://raw.githubusercontent.com/swidvey/swidvey/master/leetcode_logo_icon.png" />][leetcode]
 
 <br />
 <br />
@@ -51,3 +52,4 @@ Should add description after image
 [twitter]: https://twitter.com/arnabdey0503
 [linkedin]: https://www.linkedin.com/in/seneca-widvey-17209713/
 [medium]: https://medium.com/@senecawidvey/about
+[leetcode]: https://leetcode.com/swidvey/
