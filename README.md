@@ -34,7 +34,7 @@ Should add description after image
 
 ### Social Media:
 [<img align="left" alt="senecawidvey.co" width="50px" src="https://raw.githubusercontent.com/swidvey/swidvey/master/website_icon.png" />][website]
-[<img align="left" alt="LinkedIn" width="40px" src="https://raw.githubusercontent.com/swidvey/swidvey/master/linkedin_icon.png" />][linkedin]
+[<img align="left" alt="LinkedIn" width="50px" src="https://raw.githubusercontent.com/swidvey/swidvey/master/linkedin_icon.png" />][linkedin]
 [<img align="left" alt="Twitter" width="50px" src="https://raw.githubusercontent.com/swidvey/swidvey/master/twitter_icon.png" />][twitter]
 [<img align="left" alt="medium" width="50px" src="https://raw.githubusercontent.com/swidvey/swidvey/master/medium_logo_icon.png" />][medium]
 [<img align="left" alt="leet" width="50px" src="https://raw.githubusercontent.com/swidvey/swidvey/master/leetcode_logo_icon.png" />][leetcode]
