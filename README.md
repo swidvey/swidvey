@@ -27,8 +27,6 @@ Should add description after image
 <img align="left" alt="Matlab" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"/>
 <img align="left" alt="AWS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"/>
 <img align="left" alt="R" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1920px-R_logo.svg.png"/>
-<img align="left" alt="sql" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1920px-R_logo.svg.png"/>
-
 
 <br />
 <br />
@@ -40,20 +38,15 @@ Should add description after image
 [<img align="left" alt="Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="medium" width="40px" src="https://raw.githubusercontent.com/swidvey/swidvey/master/medium_logo_icon.png" />][medium]
 
-
-
 <br />
+<br />
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=swidvey.swidvey)
+[![GitHub followers](https://img.shields.io/github/followers/swidvey.svg?style=social&label=Follow)](https://github.com/swidvey?tab=followers)
+
 
 [website]: https://www.senecawidvey.com
 [twitter]: https://twitter.com/arnabdey0503
 [linkedin]: https://www.linkedin.com/in/seneca-widvey-17209713/
 [medium]: https://medium.com/@senecawidvey/about
-
-
-<br />
-<br />
-<br />
-<br />
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=swidvey.swidvey)
-[![GitHub followers](https://img.shields.io/github/followers/swidvey.svg?style=social&label=Follow)](https://github.com/swidvey?tab=followers)
