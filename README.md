@@ -14,7 +14,7 @@ Should add description after image
 | <img src="https://github-readme-stats.vercel.app/api?username=swidvey&count_private=true&theme=radical&show_icons=true" /> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swidvey&layout=compact&theme=radical)](https://github.com/swidvey/github-readme-stats) |
 | ------------- | ------------- |
 
-<br>
+<br />
 
 ---
 
@@ -26,18 +26,30 @@ Should add description after image
 <img align="left" alt="Pytorch" width="40px" src="https://pytorch.org/assets/images/pytorch-logo.png"/>
 <img align="left" alt="Matlab" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"/>
 <img align="left" alt="AWS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"/>
-<img align="left" alt="R" width="40px" src="[https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg](https://en.wikipedia.org/wiki/R_(programming_language)#/media/File:R_logo.svg)"/>
+<img align="left" alt="R" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1920px-R_logo.svg.png"/>
+<img align="left" alt="sql" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1920px-R_logo.svg.png"/>
+
 
 <br />
 <br />
 <br />
 
-### Social Media (Coming Soon)
-<!--
-Need to update other meadia accounts
--->
+### Social Media:
+[<img align="left" alt="senecawidvey.co" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="twitter" | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="linkedin" | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br>
+
+[website]: https://www.senecawidvey.com
+[twitter]: https://twitter.com/arnabdey0503
+[linkedin]: https://www.linkedin.com/in/seneca-widvey-17209713/
+
+
+<br />
+<br />
+<br />
+<br />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=swidvey.swidvey)
 [![GitHub followers](https://img.shields.io/github/followers/swidvey.svg?style=social&label=Follow)](https://github.com/swidvey?tab=followers)
