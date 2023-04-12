@@ -38,11 +38,11 @@ Should add description after image
 [<img align="left" alt="senecawidvey.co" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="medium" width="40px" src="https://raw.githubusercontent.com/swidvey/swidvey/mastermedium_logo_icon.png" />][medium]
+[<img align="left" alt="medium" width="40px" src="https://raw.githubusercontent.com/swidvey/swidvey/master/medium_logo_icon.png" />][medium]
 
 
 
-<br>
+<br />
 
 [website]: https://www.senecawidvey.com
 [twitter]: https://twitter.com/arnabdey0503
