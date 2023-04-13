@@ -29,7 +29,6 @@ Should add description after image
 <img align="left" alt="AWS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"/>
 <img align="left" alt="Google" width="40px" src="https://raw.githubusercontent.com/swidvey/swidvey/master/google_cloud_icon.png"/>
 <img align="left" alt="Snowflake" width="40px" src="https://raw.githubusercontent.com/swidvey/swidvey/master/snowflake_icon.png"/>
-
  
 <br />
 <br />
