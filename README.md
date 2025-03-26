@@ -14,19 +14,16 @@ I’m a data scientist and AI leader with over a decade of experience in machine
 
 I also enjoy teaching and sharing ideas through writing and code. My work blends psychology, mathematics, and machine learning — whether through notebooks, blog posts, or interactive learning tools.
 
-🧠 What I’m Working On
+---
 
-  CognitiveMLStudio – My educational lab focused on AI, ML, mathematics, and cognitive science
+### 🧠 What I’m Working On
 
-  Writing technical articles and concept explainers on Medium
-
-  Exploring research questions like:
-
-  How can AI simulate curiosity and learning behaviors?
-
-  What’s the role of symbolic reasoning in modern ML systems?
-
-  How can math intuition make ML more transparent?
+- [**CognitiveMLStudio**](https://github.com/swidvey/CognitiveMLStudio) – My educational lab focused on AI, ML, mathematics, and cognitive science
+- Writing technical articles and concept explainers on [Medium](https://medium.com/@senecawidvey)
+- Exploring research questions like:
+  - How can AI simulate curiosity and learning behaviors?
+  - What’s the role of symbolic reasoning in modern ML systems?
+  - How can math intuition make ML more transparent?
         
 
 ---
