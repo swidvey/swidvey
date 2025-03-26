@@ -7,8 +7,31 @@
 Should add description after image
 -->
 
+<br>
+<br>
+
+I’m a data scientist and AI leader with over a decade of experience in machine learning, analytics, and mathematics-driven modeling. I specialize in building forecasting systems, recommendation engines, cognitive models, and data science strategy for real-world products.
+
+I also enjoy teaching and sharing ideas through writing and code. My work blends psychology, mathematics, and machine learning — whether through notebooks, blog posts, or interactive learning tools.
+
+🧠 What I’m Working On
+
+  CognitiveMLStudio – My educational lab focused on AI, ML, mathematics, and cognitive science
+
+  Writing technical articles and concept explainers on Medium
+
+  Exploring research questions like:
+
+  How can AI simulate curiosity and learning behaviors?
+
+  What’s the role of symbolic reasoning in modern ML systems?
+
+  How can math intuition make ML more transparent?
+        
+
 ---
 
+<br>
 <br>
 
 | <img src="https://github-readme-stats.vercel.app/api?username=swidvey&count_private=true&theme=radical&show_icons=true" /> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swidvey&layout=compact&theme=radical)](https://github.com/swidvey/github-readme-stats) |
