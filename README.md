@@ -3,11 +3,6 @@
 
 <img src="https://raw.githubusercontent.com/swidvey/swidvey/master/profile_banner.PNG">
 
-<!--
-Should add description after image
--->
-
-<br>
 <br>
 
 I’m a data scientist and AI leader with over a decade of experience in machine learning, analytics, and mathematics-driven modeling. I specialize in building forecasting systems, recommendation engines, cognitive models, and data science strategy for real-world products.
