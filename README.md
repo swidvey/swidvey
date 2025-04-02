@@ -15,6 +15,7 @@ I also enjoy teaching and sharing ideas through writing and code. My work blends
 
 - [**CognitiveMLStudio**](https://github.com/swidvey/CognitiveMLStudio) – My educational lab focused on AI, ML, mathematics, and cognitive science
 - Writing technical articles and concept on [Medium](https://medium.com/@senecawidvey)
+- CognitiveMLStudio articles [Medium](https://medium.com/cognitivemlstudio)
 - Exploring research questions like:
   - How can AI simulate curiosity and learning behaviors?
   - What’s the role of symbolic reasoning in modern ML systems?
