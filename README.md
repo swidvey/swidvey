@@ -27,8 +27,9 @@ I also enjoy teaching and sharing ideas through writing and code. My work blends
 <br>
 <br>
 
-| <img src="https://github-readme-stats.vercel.app/api?username=swidvey&count_private=true&theme=radical&show_icons=true" /> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swidvey&layout=compact&theme=radical)](https://github.com/swidvey/github-readme-stats) |
-| ------------- | ------------- |
+# | <img src="https://github-readme-stats.vercel.app/api?username=swidvey&count_private=true&theme=radical&show_icons=true" /> 
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swidvey&layout=compact&theme=radical)](https://github.com/swidvey/github-readme-stats) |
+| ------------- | 
 
 <br />
 
