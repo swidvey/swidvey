@@ -24,17 +24,6 @@ I also enjoy teaching and sharing ideas through writing and code. My work blends
 
 ---
 
-<br>
-<br>
-
-<!-- | <img src="https://github-readme-stats.vercel.app/api?username=swidvey&count_private=true&theme=radical&show_icons=true" />  -->
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swidvey&layout=compact&theme=radical)](https://github.com/swidvey/github-readme-stats) |
-| ------------- | 
-
-<br />
-
----
-
 ### Frequently Used Languages and Tools 
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 <img align="left" alt="Tensorflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"/>
